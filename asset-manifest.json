@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ExerciseTarker/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ExerciseTarker/static/js/main.57808c73.chunk.js",
+    "main.js.map": "/ExerciseTarker/static/js/main.57808c73.chunk.js.map",
+    "runtime-main.js": "/ExerciseTarker/static/js/runtime-main.500391a2.js",
+    "runtime-main.js.map": "/ExerciseTarker/static/js/runtime-main.500391a2.js.map",
+    "static/css/2.0cfad52a.chunk.css": "/ExerciseTarker/static/css/2.0cfad52a.chunk.css",
+    "static/js/2.aa5d6d08.chunk.js": "/ExerciseTarker/static/js/2.aa5d6d08.chunk.js",
+    "static/js/2.aa5d6d08.chunk.js.map": "/ExerciseTarker/static/js/2.aa5d6d08.chunk.js.map",
+    "index.html": "/ExerciseTarker/index.html",
+    "static/css/2.0cfad52a.chunk.css.map": "/ExerciseTarker/static/css/2.0cfad52a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ExerciseTarker/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aa5d6d08.chunk.js.LICENSE.txt": "/ExerciseTarker/static/js/2.aa5d6d08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.500391a2.js",
+    "static/css/2.0cfad52a.chunk.css",
+    "static/js/2.aa5d6d08.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.57808c73.chunk.js"
+  ]
+}
